@@ -1,4 +1,10 @@
 # datascience---R
+all data
+ - FuelEfficeny.csv - in class example
+ - Original.Test.csv - final project data
+ - Train.test.csv - final project data
+ - Toyata.csv - in class example
+ 
 all R code
 
 File: 1-code_basics.R
