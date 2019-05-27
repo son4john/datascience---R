@@ -34,3 +34,6 @@ File: 3520196.R
   
 File: Oonnoonni_Johnson.R (incomplete)
   - Irates - linear regression 
+
+File: README.md
+ - description of all files in the folder
