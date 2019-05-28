@@ -37,3 +37,30 @@ File: Oonnoonni_Johnson.R (incomplete)
 
 File: README.md
  - description of all files in the folder
+ 
+ File: bond.R(incomplete)
+ - function to compute the value of a bond
+ 
+ File: bond2.R
+ - bond price function
+ - price simulation bond
+ - stock split incorporator
+ 
+ File: code_SEC.R
+ - querying SEC database
+ 
+ File: code_chap11(1)
+ - haven't reviewed
+ 
+ File: code_chap3.R
+ - permutation
+ - combination
+ - histograms
+ - log, log difference, returns vs prices
+ - reading input files
+ - linear model
+ - shapiro.test
+ - download data yahoo finance
+ - matrix
+ - summary statistics
+ 
